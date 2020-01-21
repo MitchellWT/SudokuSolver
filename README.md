@@ -1,2 +1,2 @@
-# The files provided include a source code file for a sudoku solver and an executable file 
-made with pyInstaller to test the functionality of the program.
+#Sudoku Solver
+There are two files provided in this repository. The first is a Python file that contains the source code for a Sudoku solver with built in GUI. The second is an executable file made with pyInstaller from said source code, It can be downloaded and ran on most systems If python isnt installed/avaliable.
